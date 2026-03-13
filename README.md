@@ -1,9 +1,13 @@
 ### Hi there 👋
----
-I'm Jason, an undergraduate Math-Computer Science student and Finance Minor at University of California, San Diego. I'm instered in Natural Language Processing, Quantum Computing and Data Analysis. I am excited to embrace new technology anytime:smiley:!
 
-School Email📬jiw196@ucsd.edu
-Personal Email:📧jason.jc.wang@outlook.com
+I'm **Jason Wang** — MS Data Science @ UC San Diego, builder, and occasional tinkerer.
+
+By day I'm deep in **LLM engineering**, **AI agents**, and full-stack product development.
+By night I'm probably soldering something on a Raspberry Pi or redesigning a UI that didn't need redesigning.
+
+🌱 Exploring RAG pipelines, multi-agent systems & generative design  
+🎨 Passionate about the craft of design as much as the code behind it  
+📫 jason.jc.wang@outlook.com
 
 
 <!--

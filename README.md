@@ -7,7 +7,8 @@ By night I'm probably soldering something on a Raspberry Pi or redesigning a UI 
 
 🌱 Exploring RAG pipelines, multi-agent systems & generative design  
 🎨 Passionate about the craft of design as much as the code behind it  
-📫 jason.jc.wang@outlook.com
+
+📬 jiw196@ucsd.edu · 📧 jason.jc.wang@outlook.com
 
 
 <!--
